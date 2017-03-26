@@ -5,7 +5,7 @@ public class AlgoExam09 {
 
 	public static void main(String[] args) {
 		
-		AlgoMain rekursiv = new AlgoMain();
+		AlgoExam09 rekursiv = new AlgoExam09();
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Please enter an integer");
