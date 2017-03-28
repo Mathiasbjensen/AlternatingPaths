@@ -6,6 +6,7 @@ public class AlgoExam09 {
 	public static void main(String[] args) {
 		
 		//Svans
+		//Skod
 		AlgoExam09 rekursiv = new AlgoExam09();
         Scanner scanner = new Scanner(System.in);
         
